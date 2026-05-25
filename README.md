@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=620&lines=Analista+de+Segurança+da+Informação;Gestão+de+Identidade+%26+Acessos+(IAM);SAP+BASIS+%7C+Entra+ID+%7C+LGPD%2FGDPR;Desenvolvedora+de+Projetos+Web+🛸" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=620&lines=Analista+de+Seguranca+da+Informacao;Gestao+de+Identidade+%26+Acessos+(IAM);SAP+BASIS+%7C+Entra+ID+%7C+LGPD%2FGDPR;Desenvolvedora+de+Projetos+Web+%F0%9F%9B%B8" alt="Typing SVG" />
 
 </div>
 
@@ -35,15 +35,15 @@
 <p align="center">
   <img src="https://img.shields.io/badge/LGPD%2FGDPR-00aa55?style=flat" alt="LGPD/GDPR">
   <img src="https://img.shields.io/badge/IAM-0FAAFF?style=flat" alt="IAM">
-  <img src="https://img.shields.io/badge/Análise%20de%20Vulnerabilidades-cc0000?style=flat" alt="Vulnerabilidades">
-  <img src="https://img.shields.io/badge/Gestão%20de%20Riscos-ff6600?style=flat" alt="Gestão de Riscos">
+  <img src="https://img.shields.io/badge/Analise%20de%20Vulnerabilidades-cc0000?style=flat" alt="Vulnerabilidades">
+  <img src="https://img.shields.io/badge/Gestao%20de%20Riscos-ff6600?style=flat" alt="Gestão de Riscos">
 </p>
 
 ---
 
 ## 🚀 Projetos
 
-| 🎮 Projeto | Descrição | Link |
+| Projeto | Descrição | Link |
 |---|---|---|
 | 🛸 **Mervati Hub** | Portal central de todos os meus projetos | [mervati.github.io](https://mervati.github.io) |
 | 🃏 **Jogo da Memória** | Jogo multiplayer com IA e modo online em tempo real | [Jogar agora](https://mervati.github.io/Jogo-da-Memoria) |
@@ -54,8 +54,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mervati&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d28&title_color=00ff99&icon_color=00ff99&text_color=c0d0ff" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mervati&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d28&title_color=00ff99&text_color=c0d0ff" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mervati&show_icons=true&hide_border=true&bg_color=0d0d28&title_color=00ff99&icon_color=00ff99&text_color=c0d0ff" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mervati&layout=compact&hide_border=true&bg_color=0d0d28&title_color=00ff99&text_color=c0d0ff" alt="Top Languages" />
 </p>
 
 ---
@@ -66,6 +66,7 @@
   <a href="https://www.linkedin.com/in/marianaervati/?skipRedirect=true">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  &nbsp;
   <a href="https://mervati.github.io">
     <img src="https://img.shields.io/badge/Mervati%20Hub-00ff99?style=flat&logo=github&logoColor=black" alt="Hub">
   </a>
@@ -74,5 +75,5 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Exo+2&size=13&duration=4000&pause=1000&color=00FF99&center=true&vCenter=true&width=500&lines=🛸+Explorando+o+universo+da+tecnologia...;👽+Segurança+da+Informação+é+minha+missão!" alt="Footer typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=4000&pause=1000&color=00FF99&center=true&vCenter=true&width=500&lines=Explorando+o+universo+da+tecnologia...+%F0%9F%9B%B8;Seguranca+da+Informacao+e+minha+missao!+%F0%9F%91%BD" alt="Footer typing" />
 </div>
