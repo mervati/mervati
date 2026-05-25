@@ -51,11 +51,16 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Linguagens
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mervati&show_icons=true&hide_border=true&bg_color=0d0d28&title_color=00ff99&icon_color=00ff99&text_color=c0d0ff" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mervati&layout=compact&hide_border=true&bg_color=0d0d28&title_color=00ff99&text_color=c0d0ff" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/HTML5-45%25-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML">
+  <img src="https://img.shields.io/badge/CSS3-30%25-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS">
+  <img src="https://img.shields.io/badge/JavaScript-25%25-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mervati&color=00ff99&style=flat&label=Visitas+ao+perfil" alt="Profile views" />
 </p>
 
 ---
