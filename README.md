@@ -54,9 +54,9 @@
 ## 📊 Linguagens
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-45%25-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML">
-  <img src="https://img.shields.io/badge/CSS3-30%25-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS">
-  <img src="https://img.shields.io/badge/JavaScript-25%25-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/JavaScript-50%25-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/CSS3-26%25-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS">
+  <img src="https://img.shields.io/badge/HTML5-24%25-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML">
 </p>
 
 <p align="center">
