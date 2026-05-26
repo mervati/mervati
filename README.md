@@ -6,7 +6,11 @@
 
 ---
 
-# 👽 Mariana Ervati da Silva
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=80&pause=9999999&color=00FF99&center=true&vCenter=true&repeat=false&width=520&height=64&lines=Mariana+Ervati" alt="Mariana Ervati" />
+</div>
+
+👽
 
 🔐 **Analista de Segurança da Informação Jr. II** na Vennx  
 📍 Vitória, Espírito Santo, Brasil  
