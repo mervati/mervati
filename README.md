@@ -80,5 +80,5 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=4000&pause=1000&color=00FF99&center=true&vCenter=true&width=500&lines=Explorando+o+universo+da+tecnologia...+%F0%9F%9B%B8;Seguranca+da+Informacao+e+minha+missao!+%F0%9F%91%BD" alt="Footer typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=4000&pause=1000&color=00FF99&center=true&vCenter=true&width=500&lines=Explorando+o+universo+da+tecnologia...+%F0%9F%9B%B8;Seguran%C3%A7a+da+Informa%C3%A7%C3%A3o+%C3%A9+minha+miss%C3%A3o!+%F0%9F%91%BD" alt="Footer typing" />
 </div>
