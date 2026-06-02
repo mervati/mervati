@@ -33,7 +33,6 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase">
   <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=flat&logo=githubpages&logoColor=white" alt="GitHub Pages">
 </p>
 <p align="center">
@@ -50,7 +49,8 @@
 | Projeto | Descrição | Link |
 |---|---|---|
 | 🛸 **Mervati Hub** | Portal central de todos os meus projetos | [mervati.github.io](https://mervati.github.io) |
-| 🃏 **Jogo da Memória** | Jogo multiplayer com IA e modo online em tempo real | [Jogar agora](https://mervati.github.io/Jogo-da-Memoria) |
+| 🔍 **Linhas do Crime** | Jogo de raciocínio lógico de detetive | [Ver repositório](https://github.com/mervati/Linhas-do-Crime) |
+| 🃏 **Jogo da Memória** | Jogo de memória com modo online em tempo real | [Jogar agora](https://mervati.github.io/Jogo-da-Memoria) |
 | 📸 **Thalita Jantorno** | Site de fotografia de eventos | [Acessar](https://mervati.github.io/thalita-jantorno/) |
 
 ---
