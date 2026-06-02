@@ -49,7 +49,7 @@
 | Projeto | Descrição | Link |
 |---|---|---|
 | 🛸 **Mervati Hub** | Portal central de todos os meus projetos | [mervati.github.io](https://mervati.github.io) |
-| 🔍 **Linhas do Crime** | Jogo de raciocínio lógico de detetive | [Ver repositório](https://github.com/mervati/Linhas-do-Crime) |
+| 🔍 **Linhas do Crime** | Jogo de raciocínio lógico de detetive | [Jogar agora](https://mervati.github.io/Linhas-do-Crime/) |
 | 🃏 **Jogo da Memória** | Jogo de memória com modo online em tempo real | [Jogar agora](https://mervati.github.io/Jogo-da-Memoria) |
 | 📸 **Thalita Jantorno** | Site de fotografia de eventos | [Acessar](https://mervati.github.io/thalita-jantorno/) |
 
